@@ -1,0 +1,121 @@
+.contMenu {
+    display: none;
+    position: absolute;
+}
+
+.childOptionsMenu ul {
+    padding-bottom: 15px;
+}
+
+.menuLvs .option {
+    font-family: 'levisRegular', 'Arial';
+}
+
+.childOptionsMenu {
+    padding: 15px 15px;
+    padding-top: 0px;
+}
+
+li.option a {
+    color: black;
+}
+li.option:hover a {
+    color: #c51230;
+    text-decoration: none; 
+}
+ul.parentMenu li.optionKit {
+    padding-left: 0px;
+    width: 100%;
+}
+li.option:hover {
+    /*border: 1px solid black;*/
+    border-bottom: none;
+    color: #c51230;
+}
+.childOptionsMenu ul li {
+    font-size: 12px;
+    font-family: 'levisLight', 'Arial';
+    padding: 2px 0px;
+}
+.childOptionsMenu ul li a {
+    color: black !important;
+}
+.childOptionsMenu ul li a:hover {
+    text-decoration: underline;
+}
+.childOptionsMenu .title {
+    margin-top: 20px;
+}
+.new-menu-item {
+    display: inline-block;
+    vertical-align: middle;
+    zoom: 1;
+    background: #c51230;
+    color: white;
+    font-family: 'Helvetica';
+    font-size: .65em;
+    letter-spacing: 1.5px;
+    margin: -2px 0 0 8px;
+    padding: 2px 2px 2px 4px;
+    text-transform: uppercase;
+    font-family: 'levisLight', 'Arial';
+}
+/*menuOptionsClp*/
+
+.evMenuShowIcon {
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    z-index: 1;
+}
+
+.navBarIcons { 
+    background-color: white;
+    padding: 16px 18px;
+    margin-top: 10px;
+    background-image: url('../images/default/menu-option-close.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none; 
+}
+
+li.option p.opn {
+    margin: 0px;
+}
+ul.lastLevel li {
+    padding-left: 0px !important;
+}
+.childOptionsMenu ul p.lastTextOption {
+    text-transform: uppercase;
+    color: #666;
+    font-family: 'levisLight', 'Arial';
+    font-size: 1.45em;
+    margin-bottom: 4px;
+}
+.childOptionsMenu ul li {
+    display: block !important;
+}
+
+p.firstTextOption {
+    margin: 0px;
+    font-size: 18px;
+    padding: 5px 10px;
+    position: relative;
+    z-index: 1;
+    background: white; 
+    margin-left: -1px;
+
+}
+
+
+
+
+.lastLevel li p {
+    margin: 0px;
+}
+.evMenuShowIcon.closeMobileMenu {
+    position: absolute;
+    right: -4px;
+    top: 12px;
+}

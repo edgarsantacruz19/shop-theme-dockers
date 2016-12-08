@@ -1,0 +1,44 @@
+
+/* Ejemplo de fuente seguir la ruta de la fuente */ 
+
+@font-face {
+  font-family:'levisLight';
+  src:url('../fonts/levisLight.eot?#iefix') 
+  format('embedded-opentype'),url('../fonts/levisLight.woff')  
+  format('woff'),url('../fonts/levisLight.ttf') 
+  format('truetype'),url('../fonts/levisLight.svg#levisLight-20') format('svg');
+}
+
+
+
+@font-face {
+  font-family:'levisRegular';
+  src:url('../fonts/levisRegular.eot?#iefix') 
+  format('embedded-opentype'),url('../fonts/levisRegular.woff')  
+  format('woff'),url('../fonts/levisRegular.ttf') 
+  format('truetype'),url('../fonts/levisRegular.svg#levisRegular-20') format('svg');
+}
+
+
+
+@font-face {
+  font-family:'levisBold';
+  src:url('../fonts/levisBold.eot?#iefix') 
+  format('embedded-opentype'),url('../fonts/levisBold.woff')  
+  format('woff'),url('../fonts/levisBold.ttf') 
+  format('truetype'),url('../fonts/levisBold.svg#levisBold-20') format('svg');
+}
+ 
+
+ 
+@font-face {
+  font-family:'TradeGothic'; 
+  src:url('../fonts/trade-gothic-bold.eot?#iefix') 
+  format('embedded-opentype'),url('../fonts/trade-gothic-bold.woff')  
+  format('woff'),url('../fonts/trade-gothic-bold.ttf') 
+  format('truetype'),url('../fonts/trade-gothic-bold.svg#trade-gothic-bold-20') format('svg');
+}
+  
+
+
+ 

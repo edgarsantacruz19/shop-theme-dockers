@@ -1,0 +1,110 @@
+.grayOptions {
+    padding: 60px 170px; 
+}
+ul.devProd {
+    list-style-type: none;
+}
+.topTitleFt {
+    margin-top: 0px;
+    text-transform: uppercase;
+}
+ul.socialFooter li {
+    display: inline-block;
+}
+ul.dispLineFooter li {
+    display: inline-block;
+    padding-right: 18px;
+    font-family: 'levisBold', 'Arial';
+    color: #555;
+    font-size: 12.5px;
+}
+footer .container.gray {
+    background-color: #f0f0f0;
+}
+footer .grayInfoFt {
+    margin: 40px 70px;
+    border-top: 1px solid gray;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+ul.dispLineFooter {
+    text-align: left;
+}
+footer {
+    margin-top: 50px;
+}
+input.newsletterFooter {
+    padding: 5px;
+    border: 1px solid #999;
+    background: #f3f3f3;
+    height: 40px;
+    width: 60%;
+}
+.text-copyright {
+    margin: 0px;
+    text-align: right;
+    font-family: 'levisRegular', 'Arial';
+    font-size: 12px;
+    color: #747474;
+}
+h3.topTitleFt {
+    font-family: 'levisRegular', 'Arial';
+    font-weight: lighter;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+h2.topTitleFt {
+    font-family: 'levisRegular', 'Arial';
+    font-weight: lighter;
+    font-size: 1.3em;
+}
+ul.devProd li {
+    font-family: 'levisRegular', 'Arial';
+    font-size: 12px;
+    padding: 12px 0px;
+}
+.textInfoNewsL p {
+    font-family: 'levisRegular', 'Arial';
+    font-size: 1em;
+}
+.textInfoNewsL p.little {
+    font-family: 'levisLight', 'Arial';
+    font-size: .8em;
+    letter-spacing: .5px;
+    margin-top: 18px;
+}
+button.sendNewsL {
+    border: none;
+    background: gray;
+    padding: 10px 20px;
+    color: #ebebeb;
+    font-family: 'levisRegular', 'Arial';
+    margin-left: -4px;
+}
+ul.devProd li a {
+    color: black;
+}
+ul.dispLineFooter li a {
+    color: black;
+}
+//Modal newsletter en footer para aparicion en todas las vistas
+.inputMailPop {
+    text-align: center;
+}
+.titlePop h3 {
+    text-align: center;
+    font-size: 1em;
+}
+.titlePop h2 {
+    text-align: center;
+    font-stretch: 3em;
+}
+button.sendNewsLPop {
+    border: none;
+    background: black;
+    padding: 10px 20px;
+    color: #ebebeb;
+    font-family: 'levisRegular', 'Arial';
+    margin-left: -4px;
+}
+//Modal newsletter

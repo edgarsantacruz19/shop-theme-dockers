@@ -1,0 +1,328 @@
+   .hideZoomRight {
+    position: absolute;
+    height: 100%;
+    width: 200px; 
+    right: 0;
+    z-index: 1;
+   }
+.detProdGray {
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-size: 600% 545px;
+    border-bottom: 1px solid #dedede;
+}
+.titleProduct h1 {
+    font-family: 'levisBold', 'Arial';
+    font-size: 1.8em;
+    margin-top: 35px;
+}
+.coloresProducto img {
+    height: 38px;
+    border: 1px solid #999;
+    width: 100%;
+}
+.coloresProducto div {
+    margin-bottom: 10px;
+}
+.pdnAdjust {
+    padding-right: 90px;
+}
+.titleColor {
+    margin-bottom: 10px;
+}
+.titleColor ul li {
+    font-family: 'levisLight', 'Arial';
+    padding-right: 20px;
+    list-style-type: none;
+}
+.titleColor ul li.colorTxt {
+    font-size: 12px;
+    margin-top: 10px;
+}
+.price p {
+    margin: 0px;
+    font-family: 'levisBold', 'Arial';
+    font-size: 1.5em;
+}
+.btnAddPrd {
+    font-family: 'levisBold', 'Arial';
+    width: 100%;
+    border: none;
+    padding: 13px;
+    background: #c41230;
+    color: white;
+}
+ul.listSizeKit li {
+    font-size: 12px;
+    font-family: 'levisRegular', 'Arial';
+    border: 1px solid gray;
+    list-style-type: none;
+    display: inline-block;
+    padding: 9px 9px; 
+    margin-top: -1px;
+    margin-left: -5px;
+    background: white;
+    cursor: pointer;
+}
+ul.listSizeKit li.none {
+    background-image: url('../images/default/size-x.png');
+    background-size: 100%;
+    border: 1px solid gray;
+    color: gray;
+    cursor: auto;
+}
+.sizeKit {
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.sprtIconDetail h4:before {
+    display: inline-block;
+    vertical-align: middle;
+    zoom: 1;
+    background-image: url('../images/default/cuidados.png');
+    background-repeat: no-repeat;
+    content: '';
+    height: 24px;
+    margin-right: 5px;
+}
+.detailInfo h4:before {
+    background-position: 0 -45px;
+    width: 29px;
+}
+.detailMaterial h4:before {
+    background-position: -30px -45px;
+    width: 20px;
+}
+.detailSize h4:before {
+    background-position: -90px -42px;
+    width: 30px;
+}
+.sprtIconDetail p {
+    text-align: justify;
+    padding-right: 20px;
+}
+.sizeKit p {
+    font-size: 12px;
+    font-family: 'levisLight', 'Arial';
+    margin: 0px;
+    padding-bottom: 7px;
+}
+ul.listSizeKit {
+    margin-left: 5px;
+}
+.infPriceStars {
+    margin: 10px 0px 20px 0px;
+}
+.priceRatingCombo {
+    margin-bottom: 20px;
+}
+.contentOptionClp ul {
+    margin-left: 15px;
+}
+.contentOptionClp.openChild {
+    display: block;
+}
+ul.thumbsImgPd li {
+    list-style-type: none;
+    padding: 0px;
+    margin: 5px 0px;
+    width: 44px;
+    height: 44px;
+}
+ul.thumbsImgPd {
+    padding: 40px; 
+    position: absolute;
+    z-index: 1;
+    width: 200px;
+    height: 100%;
+}
+ul.thumbsImgPd li.selectedItm {
+    border: 2px solid #bd4141;
+}
+h3.titlePop {
+    font-family: 'levisLight', 'Arial';
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+.colorOptionsPop {
+    margin-bottom: 15px;
+}
+.colorOptionsPop .col-xs-2 {
+    padding: 0px 5px;
+}
+.colorOptionsPop .col-xs-2 img {
+    height: 40px;
+    width: 100%;
+}
+.price p span {
+    margin: 0px;
+    font-family: 'levisBold', 'Arial';
+    font-size: 1em;
+}
+.cloudzoom0:hover {
+    cursor: zoom-in;
+}
+.pdn5px {
+    padding: 0px 5px;
+}
+ul.listSizeKit li:hover {
+    background: gray;
+    color: white;
+}
+.sprtIconDetail h4 {
+    font-size: 19px;
+}
+// derecha menu opciones producto 
+img.activeColor {
+    border: 2px solid #bf6868;
+    padding: 1px;
+}
+.titleColor .styleNum {
+    color: #9a9a9a;
+}
+#myBtn {
+    font-weight: bold;
+    margin: 0px;
+    padding: 6px;
+    color: black;
+    border: 3px solid black;
+    cursor: pointer;
+}
+.qtyPrice span {
+    font-weight: lighter;
+}
+
+
+ 
+
+label.reviewsData { margin-right: 30px; }
+
+
+.pdnReview {
+    border-bottom: 1px dotted gray;
+    margin-bottom: 15px;
+}
+.prd-ratingOptionTitle {
+    width: 100px;
+}
+.rvwSend {
+    border: none;
+    padding: 10px 20px;
+    background: #c41230;
+    color: white;
+}
+.form-group label {
+    display: block;
+}
+.elementsFormRvw {
+    background-color: #f1f1f1;
+    padding: 10px;
+    padding-top: 25px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.titleReviewCenter {
+    text-align: center;
+    font-family: 'levisBold', 'Arial';
+    font-size: 2.2em;
+}
+.topReviewResume {
+    display: table;
+}
+.topReviewResume * {
+    float: left;
+    margin: 0px;
+    padding-right: 20px;
+}
+.topReviewResume h4 {
+    padding-top: 5px;
+}
+.topReviewResume p {
+    padding-top: 5px;
+}
+.txtReview {
+    display: block;
+}
+.titleLft h4 {
+    margin: 0px;
+    color: black;
+    font-size: 1.2em;
+}
+p.ageInfo {
+    margin-top: 20px;
+}
+.txtReviewInfo {
+    margin: 0px;
+}
+.topBrdReview {
+    border-bottom: 1px solid #c7c7c7;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+.topInfoReviews {
+    margin-bottom: 0px;
+    border-bottom: 1px solid #bdbdbd;
+    padding-bottom: 10px;
+}
+.topInfoReviews h3 {
+    margin-top: 0px;
+}
+.wrReview {
+    border: none;
+    padding: 13px 40px;
+    color: white;
+    background: black;
+    float: right;
+}
+.row.countRvw {
+    border-bottom: 1px solid #bdbdbd;
+    padding: 14px 0px;
+    margin-bottom: 30px;
+}
+.infoFilterReview {
+    float: right;
+}
+.elementsFormRvw.active {
+    display: block;
+}
+.elementsFormRvw {
+    display: none;
+}
+.heartFavorite {
+    position: absolute;
+    cursor: pointer;
+    top: 42px;
+    left: -55px; 
+    z-index: 1;
+}
+.heartFavorite img {
+    height: 17px;
+}
+.comunMsgInfo {
+    display: none;
+    background: #ffffff;
+    padding: 8px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 2px solid gray;
+    font-family: 'levisRegular', 'Arial';
+}
+.colorOptionsPop div {
+    margin-bottom: 10px;
+}
+//
+
+//
+
+li.activeNumSize{
+    background: black !important;
+    color: white !important;
+}
+
+.imgPrdColor:hover { cursor: pointer; }
+
+
+//
+
+

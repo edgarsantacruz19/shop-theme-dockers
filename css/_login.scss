@@ -1,0 +1,51 @@
+label.error {
+    color: red;
+}
+input[type=text].error {
+    background: #fff4f4 !important;
+    border: 1px solid red !important;
+}
+.formLoginActions {
+    padding-left: 200px;
+    padding-right: 30px;
+}
+.formLoginActions input[type=text] {
+    width: 100%;
+    padding: 10px;
+    background: #f0f0f0;
+    border: 1px solid #ccc;;
+}
+.formLoginActions h3 {
+    text-align: center;
+    font-family: 'levisRegular', 'Arial';
+    font-size: 1.5em;
+    font-weight: lighter;
+}
+.createActionLink h3 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'levisRegular', 'Arial';
+    font-size: 1.5em;
+    font-weight: lighter;
+}
+button.actionLoginButtons {
+    width: 100%;
+    border: none;
+    padding: 10px;
+    background: #f47321;
+    color: white;
+}
+label.fPasswordInp span {
+    float: right;
+    font-weight: lighter;
+}
+.kitLoginActions {
+    padding-top: 70px;
+}
+.createActionLink {
+    padding-right: 200px;
+    padding-left: 30px;
+}
+.brdLogReg {
+    border-right: 1px solid gray;
+}

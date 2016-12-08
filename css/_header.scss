@@ -1,0 +1,181 @@
+#header {
+    z-index: 99999 !important;
+    background: white;
+    margin: 0 auto !important;
+}
+.flagItemTop {
+    float: right;
+    padding-left: 10px;
+    padding-top: 9px;
+}
+.topGray {
+    height: 33px;
+    background: #333;
+}
+ul.linksTopInfo li {
+    display: inline-block;
+    padding: 7px 0px;
+    padding-left: 15px;
+    font-size: 12.4px;
+    color: #999;
+}
+ul.linksTopInfo {
+    text-align: right;
+}
+ul.linksTopInfo li a {
+    color: #999;
+    ;
+}
+ul.promoSendPak li {
+    display: inline-block;
+    padding: 7px 0px;
+    padding-left: 0px;
+    font-size: 12.4px;
+    color: #999;
+}
+ul.promoSendPak {
+    text-align: left;
+}
+ul.promoSendPak li a {
+    color: #999;
+    ;
+}
+.logo {
+    height: 40px;
+}
+nav.topNavigation ul li {
+    display: inline-block;
+    color: black;
+}
+li.option a {
+    color: black;
+}
+nav.topNavigation {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.logoTop {
+    float: left;
+}
+ul.topMoreInfo li {
+    display: inline-block;
+    padding-left: 30px;
+}
+ul.topMoreInfo {
+    text-align: right;
+    margin-top: 3px;
+}
+.loveIcon {
+    height: 30px;
+    width: 27px;
+    display: block;
+    background-image: url("../images/default/heart.png");
+    background-position: 0px 8px;
+    background-repeat: no-repeat;
+}
+.iconBag {
+    height: 32px;
+    width: 30px;
+    display: block;
+    background-image: url("../images/default/bag.png");
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+}
+
+.iconboxSearchMb {
+    height: 27px;
+    width: 30px;
+    display: block;
+    background-image: url(../images/default/searchMb.png);
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    margin-top: 3px;
+}
+
+.btmBorder {
+    border-bottom: 1px solid #d9d9d9;
+    padding-bottom: 10px;
+}
+.promoCenter {
+    text-align: center;
+    margin: 10px;
+}
+.searchTopBox {
+    border: none;
+    border-bottom: 1px solid black;
+    outline: 0;
+    color: black;
+    width: 170px;
+}
+.bagBox {
+    float: right;
+}
+.signinBox a {
+    color: #333;
+    font-size: 13px;
+}
+.signinBox a:hover {
+    text-decoration: none;
+}
+button.activeSearch {
+    height: 20px;
+    width: 25px;
+    border: none;
+    background-image: url('../images/default/searchActive.png');
+}
+ul.socialFooter {
+    text-align: left;
+    margin-top: 20px;
+}
+p.lastTextOption {
+    margin: 0px;
+}
+// Fast Cart
+.btnFastCart {
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background: #b13333;
+    color: white;
+    font-family: 'levisLight', 'Arial';
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 1.3em;
+}
+// Fast Cart
+.nOfItems {
+    text-align: center;
+    font-family: 'levisRegular', 'Arial';
+    border-bottom: 1px solid #c7c7c7;
+    padding-bottom: 5px;
+}
+.ordTotalMc {
+    font-family: 'levisRegular', 'Arial';
+    text-align: left;
+}
+.ordNumberMc {
+    font-family: 'levisRegular', 'Arial';
+}
+.titleTlMc {
+    margin: 0px;
+    text-align: left;
+}
+.priceTlMc {
+    font-size: 11px;
+    margin: 0px;
+}
+.styleNb {
+    margin: 0px;
+    font-size: 10px;
+    text-align: left;
+}
+.lineCurv {
+    border-bottom: 1px solid #bfbfbf;
+    padding-bottom: 10px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+// Fast Car

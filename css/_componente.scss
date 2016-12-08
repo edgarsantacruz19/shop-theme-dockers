@@ -1,0 +1,89 @@
+// SELECTS PERSONALIZADOS
+p.showSelection {
+    font-size: 12px; 
+    margin: 0px;
+    font-family: 'levisBold', 'Arial';
+    background-image: url(../images/default/downArrow.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+p.showSelection.active {
+    background-image: url(../images/default/topArrow.png);
+}
+p.showSelection span.qty {
+    color: gray;
+}
+.boxSelectStyle {
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    padding: 12px 10px 12px 0px;
+    border: 1px solid gray;
+    background: white;
+    z-index: 1;
+}
+.boxSelectStyle.active {
+    cursor: initial;
+    z-index: 45;
+}
+ul.listNumbersUl li {
+    list-style-type: none;
+    border: 1px solid black;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 3px;
+    font-size: 13px;
+    padding-top: 6px;
+}
+ul.listNumbersUl {
+    padding: 10px;
+    display: none;
+    max-height: 170px;
+    overflow: auto;
+}
+
+ul.listNumbersUl li:hover {
+    background: black;
+    color: white;
+    cursor: pointer;
+}
+//tema account
+.boxSelectStyle.account {
+    background: #f1f1f1;
+}
+ul.listNumbersUl.account li {
+    list-style-type: none;
+    border: none;
+    border-bottom: 1px solid gray;
+    width: auto;
+}
+
+
+ul.listNumbersUl.active {
+    display: block;
+    position: absolute;
+    width: 86%;
+    background: white;
+    margin-top: 12px;
+    margin-left: -1px;
+    border: 1px solid gray;
+    z-index: 45;
+}
+
+
+
+ul.listNumbersUl.account.active {
+    background: #e9e9e9;
+}
+
+
+
+
+
+
+// SELECTS PERSONALIZADOS
+
+
+

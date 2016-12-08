@@ -1,0 +1,283 @@
+
+// Filtro derecha
+
+ul.lisFilterHeaders li.headerOptionFilter.right  { width: 170px; }
+
+.headerOptionFilter.right ul.childFilterOpc.desktop  { width:   170px; }
+
+//
+
+
+//titulo search page similar catalogo
+.titleSearchPage {
+    margin-bottom:20px; 
+    text-align: center; 
+    font-family: 'TradeGothic','Arial'; 
+} 
+//
+
+// scroll infinito 
+  .cRow { display: none; }
+  .cRow.active { display: inline-block; }
+// scroll infinito 
+
+.mbFilterStartView  { margin-top: 20px; }
+// boton mostrar mas productos 
+.btnMoreProd a {
+    font-family: "levisRegular";
+    border: none;
+    background: black;
+    color: white;
+    padding: 20px 25px 20px 20px;
+    text-decoration: none;
+}
+.btnMoreProd a:hover {
+    text-decoration: none;
+}
+.btnMoreProd {
+    margin-top: 20px;
+}
+//
+
+.titleCenterCatalog {
+    text-align: center;
+    font-family: 'levisBold', 'Arial';
+    font-size: 3em;
+    margin-top: 5px;
+}
+h3.txtTopBanner {
+    font-size: 1.4em;
+    text-align: center;
+    border-bottom: 1px solid #d9d9d9; 
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+// botones filtro acciones
+ul.selectedFilterAction li {
+    list-style-type: none;
+    display: inline-block;
+    background: #e8e8e8;
+    padding: 5px;
+    background-image: url(../images/default/close.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    padding-right: 30px;
+    background-size: 15%;
+}
+.row.filterSelectionList {
+    padding: 15px 0px;
+}
+.totalItemsInCatalog {
+    float: right;
+}
+//
+// Filtros barra superior
+ul.lisFilterHeaders {
+    font-family: 'levisBold';
+    font-size: 12px;
+}
+ul.lisFilterHeaders li {
+    list-style-type: none;
+}
+
+ul.lisFilterHeaders li.headerOptionFilter {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid gray;
+    margin-right: -4px;
+    width: 125px;
+    background-image: url(../images/default/downArrow.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+
+ul.childFilterOpc.desktop {
+    width: 125px;
+    max-height: 195px; 
+    overflow: auto;
+    position: absolute;
+    z-index: 1;
+    margin-left: -11px; 
+    display: none; 
+    border: 1px solid gray;
+}
+ 
+ul.childFilterOpc {
+    margin: 0 auto; 
+    font-family: 'levisBold','Arial';
+    width: 175px;
+    margin-top: 10px;
+}
+
+ul.childFilterOpc li {
+    border-bottom: 1px solid gray;
+    padding: 10px;  
+    background: white;
+    padding-left: 5px;
+    list-style-type: none; 
+}
+
+
+ul.childFilterOpc li span.checkB {
+    background-image: url(../images/default/checkbox-v2.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    display: inline-block;
+    padding-left: 20px;
+    background-size: 15px 15px;
+    cursor: pointer;
+}
+
+ul.childFilterOpc li span.checkB.active {
+    background-image: url(../images/default/checkbox-v2-checked.png);
+}
+
+
+li.headerOptionFilter:hover > .childFilterOpc {
+    display: block;
+}
+.headerOptionFilter.right {
+    float: right;
+}
+.selectedFilterAction {
+    display: inline-block;
+}
+//
+.infoCatProd {
+    height: 80px;
+    padding: 0px 3px;
+}
+.infoCatProd h4 {
+    margin: 5px 0px;
+    font-family: 'levisRegular', 'Arial';
+}
+.infoCatProd h4 a {
+    color: black;
+}
+.infoCatProd p {
+    margin: 3px 0px;
+    font-family: 'levisRegular', 'Arial';
+    font-weight: bold;
+    color: #777;
+    font-size: 12.5px;
+}
+.infoCatProd p a {
+    color: #777;
+}
+.priceCatalog span {
+    margin: 3px 0px;
+    font-family: 'levisRegular', 'Arial';
+    font-weight: lighter;
+    color: #000;
+    font-size: 12.5px;
+}
+.overBrdTotal {
+    margin-bottom: 20px;
+}
+.overBrdTotal:hover {
+    border: 1px solid black;
+}
+button.activeFiltersCatalogMb {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #000000;
+    margin-bottom: 15px;
+    font-family: 'levisRegular', 'Arial';
+    border-radius: 3px;
+    background: black;
+    color: white;
+}
+.priceCatalog p { 
+    margin: 3px 0px;
+    font-family: 'levisRegular', 'Arial';
+    font-weight: lighter;
+    color: #000;
+    font-size: 14px;
+}
+
+.priceCatalog span {
+    margin: 3px 5px;
+    font-family: 'levisRegular', 'Arial';
+    font-weight: lighter;
+    color: #717171;
+    font-size: 14px;
+    text-decoration: line-through;
+}
+
+
+
+
+.filterActionsCatalog { margin-top: 20px; }
+
+p.cleanRemove {
+    background: white !important;
+    text-decoration: underline;
+    color: gray;
+    cursor: pointer;
+    display: inline-block; 
+    margin: 0px 20px; 
+}
+
+
+
+
+
+//esconder elementos
+
+.contenttoHideFirst.active {
+    display: block !important;
+}
+
+
+.contenttoHideFirst {
+    display: none; 
+}
+
+
+.optionTextClpFirst {
+        background-image: url('../images/default/arrowMenuClosed.png');
+        background-repeat: no-repeat;
+background-position: top right;
+}
+
+
+.optionTextClpFirst.active {
+        background-image: url('../images/default/arrowMenuOpen.png');
+        background-repeat: no-repeat;
+background-position: top right;
+}
+
+
+.contenttoHideFirst ul li { list-style-type: none; }
+
+//esconder elementos 
+
+
+
+//back to top 
+
+#back-to-top { 
+    background: #ffffff url(../images/default/totop.svg) no-repeat center center;    
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 9999;
+    width: 65px;
+    height: 55px;
+    text-align: center;
+    line-height: 30px;
+    color: #444;
+    cursor: pointer;
+    border: 0;
+    border-radius: 2px;
+    text-decoration: none;
+    transition: opacity 0.2s ease-out;
+    opacity: 0;
+}
+
+#back-to-top.show {
+    opacity: 1;
+}
+
+//back to top
+
