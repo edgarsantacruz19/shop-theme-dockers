@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0e4a358-2f0f-41bc-8ab0-4663514f94bd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/catalog/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/catalog/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/catalog/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/catalog/c_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/catalog/c_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/catalog/c_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/catalog/c_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/catalog/c_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/catalog/c_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/default/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/default/logo404.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/fe47f8301dbd924393f305b101f47247c99ee035/_medias.scssc" afterPath="$PROJECT_DIR$/.sass-cache/fe47f8301dbd924393f305b101f47247c99ee035/_medias.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/default/4-5.png" afterPath="$PROJECT_DIR$/images/default/4-5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/default/5s.png" afterPath="$PROJECT_DIR$/images/default/5s.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/default/ratingSlider.png" afterPath="$PROJECT_DIR$/images/default/ratingSlider.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog.php" afterPath="$PROJECT_DIR$/catalog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.php" afterPath="$PROJECT_DIR$/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cart.php" afterPath="$PROJECT_DIR$/cart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/_medias.scss" afterPath="$PROJECT_DIR$/css/_medias.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/general.css" afterPath="$PROJECT_DIR$/css/general.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/general.css.map" afterPath="$PROJECT_DIR$/css/general.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/header.php" afterPath="$PROJECT_DIR$/includes/header.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,18 +43,48 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="-941">
+              <caret line="563" column="120" lean-forward="false" selection-start-line="563" selection-start-column="120" selection-end-line="563" selection-end-column="120" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="catalog.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="404.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_medias.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/_medias.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="44" column="37" lean-forward="false" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2200">
+              <caret line="101" column="17" lean-forward="true" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="catalog.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="802">
-              <caret line="563" column="70" lean-forward="false" selection-start-line="563" selection-start-column="70" selection-end-line="563" selection-end-column="70" />
+            <state relative-caret-position="-166">
+              <caret line="552" column="18" lean-forward="true" selection-start-line="552" selection-start-column="18" selection-end-line="552" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -83,6 +115,7 @@
       <find>SIGNAT</find>
       <find>actBtnCart</find>
       <find>.btnFastCart</find>
+      <find>itmCart</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,10 +134,12 @@
         <option value="$PROJECT_DIR$/css/_menu.scss" />
         <option value="$PROJECT_DIR$/css/_cart.scss" />
         <option value="$PROJECT_DIR$/css/_header.scss" />
-        <option value="$PROJECT_DIR$/css/_medias.scss" />
         <option value="$PROJECT_DIR$/css/_custom.scss" />
-        <option value="$PROJECT_DIR$/includes/header.php" />
         <option value="$PROJECT_DIR$/catalog.php" />
+        <option value="$PROJECT_DIR$/cart.php" />
+        <option value="$PROJECT_DIR$/includes/header.php" />
+        <option value="$PROJECT_DIR$/404.php" />
+        <option value="$PROJECT_DIR$/css/_medias.scss" />
       </list>
     </option>
   </component>
@@ -145,6 +180,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="shop-theme-dockers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-theme-dockers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-theme-dockers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -232,7 +281,7 @@
       <workItem from="1481221691523" duration="3895000" />
       <workItem from="1481225608327" duration="1346000" />
       <workItem from="1481232146635" duration="13923000" />
-      <workItem from="1481301943047" duration="1409000" />
+      <workItem from="1481301943047" duration="5863000" />
     </task>
     <task id="LOCAL-00001" summary="prueba git commit">
       <created>1481245851961</created>
@@ -255,11 +304,18 @@
       <option name="project" value="LOCAL" />
       <updated>1481247058152</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="se cambiarin imagenes de catalogo">
+      <created>1481303882073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1481303882073</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20573000" />
+    <option name="totallyTimeSpent" value="25027000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,7 +379,8 @@
     <MESSAGE value="prueba git commit" />
     <MESSAGE value="se cambio el valor de envio gratis de 899 a 10000" />
     <MESSAGE value="se volvio a cambiar el valor de envio gratis de 1000 a 899 (Ernesto prueb)" />
-    <option name="LAST_COMMIT_MESSAGE" value="se volvio a cambiar el valor de envio gratis de 1000 a 899 (Ernesto prueb)" />
+    <MESSAGE value="se cambiarin imagenes de catalogo" />
+    <option name="LAST_COMMIT_MESSAGE" value="se cambiarin imagenes de catalogo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -398,13 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/_medias.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/_custom.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -427,18 +477,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/header.php">
+    <entry file="file://$PROJECT_DIR$/catalog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        <state relative-caret-position="-166">
+          <caret line="552" column="18" lean-forward="true" selection-start-line="552" selection-start-column="18" selection-end-line="552" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog.php">
+    <entry file="file://$PROJECT_DIR$/cart.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
-          <caret line="563" column="70" lean-forward="false" selection-start-line="563" selection-start-column="70" selection-end-line="563" selection-end-column="70" />
+        <state relative-caret-position="-2200">
+          <caret line="101" column="17" lean-forward="true" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-941">
+          <caret line="563" column="120" lean-forward="false" selection-start-line="563" selection-start-column="120" selection-end-line="563" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/_medias.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="44" column="37" lean-forward="false" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
           <folding />
         </state>
       </provider>

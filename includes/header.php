@@ -113,10 +113,6 @@
 
                                                         <div class="col-xs-12 col-sm-12 col-md-3">
 
-
-
-
-
                                                             <ul>
                                                                 <li>
                                                                     <p class="lastTextOption">CATEGORIES</p>
@@ -552,7 +548,7 @@
                                             <p class="nOfItems">2 Item in Your Bag</p>
                                         </div>
                                         <div class="row lineCurv itmCart">
-                                            <div class="col-xs-3"> <img class="img-responsive" src="./images/catalog/c_1.jpg" alt=""> </div>
+                                            <div class="col-xs-3"> <img class="img-responsive" src="./images/catalog/d_1.jpg" alt=""> </div>
                                             <div class="col-xs-6 noPdn">
                                                 <h5 class="titleTlMc">721 HIGH RISE SKINNY JEANS</h5>
                                                 <p class="styleNb">Style: 188820055</p>
@@ -565,7 +561,7 @@
                                             </div>
                                         </div>
                                         <div class="row lineCurv itmCart">
-                                            <div class="col-xs-3"> <img class="img-responsive" src="./images/catalog/c_4.jpg" alt=""> </div>
+                                            <div class="col-xs-3"> <img class="img-responsive" src="./images/catalog/d_2.jpg" alt=""> </div>
                                             <div class="col-xs-6 noPdn">
                                                 <h5 class="titleTlMc">721 HIGH RISE SKINNY JEANS</h5>
                                                 <p class="styleNb">Style: 188820055</p>

@@ -39,7 +39,7 @@
 
                 <div class="row">
                     <div class="col-xs-4">
-                        <a href="./product_detail.php"><img class="img-responsive" src="./images/catalog/1.jpg" alt="">
+                        <a href="./product_detail.php"><img class="img-responsive" src="./images/catalog/d_1.jpg" alt="">
                         </a>
                     </div>
                     <div class="col-xs-8">
@@ -105,7 +105,7 @@
 
                 <div class="row">
                     <div class="col-xs-4">
-                        <a href="./product_detail.php"><img class="img-responsive" src="./images/catalog/1.jpg" alt="">
+                        <a href="./product_detail.php"><img class="img-responsive" src="./images/catalog/d_2.jpg" alt="">
                         </a>
                     </div>
                     <div class="col-xs-8">
