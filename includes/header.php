@@ -32,7 +32,7 @@
 
                     <div class="col-xs-4">
                         <ul class="promoSendPak">
-                            <li>ENVIO GRATUITO 899 MXN +</li>
+                            <li>ENVIO GRATUITO 1000 MXN +</li>
                         </ul>
                     </div>
 
