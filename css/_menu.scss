@@ -20,7 +20,7 @@ li.option a {
     color: black;
 }
 li.option:hover a {
-    color: #c51230;
+    color: #e86d1e;
     text-decoration: none; 
 }
 ul.parentMenu li.optionKit {
@@ -50,7 +50,7 @@ li.option:hover {
     display: inline-block;
     vertical-align: middle;
     zoom: 1;
-    background: #c51230;
+    background: #e86d1e;
     color: white;
     font-family: 'Helvetica';
     font-size: .65em;
@@ -90,7 +90,7 @@ ul.lastLevel li {
     text-transform: uppercase;
     color: #666;
     font-family: 'levisLight', 'Arial';
-    font-size: 1.45em;
+    font-size: 18px;
     margin-bottom: 4px;
 }
 .childOptionsMenu ul li {
@@ -99,7 +99,7 @@ ul.lastLevel li {
 
 p.firstTextOption {
     margin: 0px;
-    font-size: 18px;
+    font-size: 13px;
     padding: 5px 10px;
     position: relative;
     z-index: 1;
@@ -119,3 +119,4 @@ p.firstTextOption {
     right: -4px;
     top: 12px;
 }
+

@@ -60,7 +60,7 @@
                             <a href="./index.php"> <img class="img-responsive logo" src="./images/default/logo.png" alt=""> </a>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5">
+                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7">
                         <!--Mobile-->
                         <div class="evMenuShowIcon hidden-md hidden-lg">
                             <button type="button" class="navBarIcons menuOptionsClp">
@@ -119,471 +119,118 @@
 
                                                             <ul>
                                                                 <li>
-                                                                    <p class="lastTextOption">WHAT'S NEW</p>
+                                                                    <p class="lastTextOption">CATEGORIES</p>
                                                                     <ul class="lastLevel">
 
-                                                                        <li><a href="./catalog.php">New Arrivals</a>
+                                                                        <li><a href="./catalog.php">Casual Pants</a>
                                                                         </li>
-                                                                        <li><a href="#">Sherpa</a>
+                                                                        <li><a href="#">Dress Pants</a>
                                                                         </li>
-                                                                        <li><a href="#">Online Only</a>
+                                                                        <li><a href="#">Casual Shirts</a>
                                                                         </li>
-                                                                        <li><a href="#">501® Stretch Denim</a>
+                                                                        <li><a href="#">Dresss Shirts</a>
                                                                         </li>
-                                                                        <li><a href="#">Performance (Ft. Commuter)</a>
+                                                                        <li><a href="#">Polos & Tees</a>
                                                                         </li>
 
 
                                                                     </ul>
                                                                 </li>
                                                             </ul>
-
-
-
-
-                                                            <ul class="hidden-xs">
-                                                                <li class="titleLastLevel">
-                                                                    <p class="lastTextOption">FEATURED STORIES</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="#">Live in Levi’s® Project</a>
-                                                                        </li>
-                                                                        <li><a href="#">Zoe Kravitz x Levi's®</a>
-                                                                        </li>
-                                                                        <li><a href="#">Explore We Are 501®</a>
-                                                                        </li>
-                                                                        <li><a href="#">Made of Progress</a>
-                                                                        </li>
-                                                                        <li><a href="#">Tailor Tips</a>
-                                                                        </li>
-
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-
 
 
                                                         </div>
 
-
-
                                                         <div class="col-xs-12 col-sm-12 col-md-3">
-
-
-
                                                             <ul>
                                                                 <li>
-                                                                    <p class="lastTextOption">CATEGORIES</p>
+                                                                    <p class="lastTextOption">PANTS BY FIT</p>
                                                                     <ul class="lastLevel">
-                                                                        <li><a href="#">Jeans <span class="new-menu-item">new</span></a>
+                                                                        <li><a href="#">Skinny Tapered <span class="new-menu-item">new</span></a>
                                                                         </li>
-                                                                        <li><a href="#">Pants</li>
+                                                                        <li><a href="#">Slim Tapered</li>
      <li><a href="#">Shorts</a>
-                                                                        </li>
-                                                                        <li><a href="#">Shirts</a>
-                                                                        </li>
-                                                                        <li><a href="#">T-shirts & Graphics</a>
-                                                                        </li>
-                                                                        <li><a href="#">Jean Jackets & Truckers</a>
-                                                                        </li>
-                                                                        <li><a href="#">Jackets</a>
-                                                                        </li>
-                                                                        <li><a href="#">Belts</a>
-                                                                        </li>
-                                                                        <li><a href="#">Shop All</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-
-
-
-                                                            <ul class="hidden-xs">
-                                                                <li class="titleLastLevel">
-                                                                    <p class="lastTextOption">JEANS BY FIT</p>
-                                                                    <ul class="lastLevel">
-
-
-                                                                        <li><a href="#">Skinny </a>
                                                                         </li>
                                                                         <li><a href="#">Slim</a>
                                                                         </li>
+                                                                        <li><a href="#">Athletic Tapered</a>
+                                                                        </li>
                                                                         <li><a href="#">Straight</a>
                                                                         </li>
-                                                                        <li><a href="#">Bootcut</a>
-                                                                        </li>
-                                                                        <li><a href="#">Taper</a>
-                                                                        </li>
-                                                                        <li><a href="#">Athletic</a>
+                                                                        <li><a href="#">Classic</a>
                                                                         </li>
                                                                         <li><a href="#">Relaxed</a>
                                                                         </li>
-                                                                        <li><a href="#">Big & Tall</a>
-                                                                        </li>
-
-
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-
-
-
-                                                        </div>
-
-
-
-
-                                                        <div class="col-xs-12 col-sm-12 col-md-3">
-                                                            <ul>
-                                                                <li class="titleLastLevel">
-                                                                    <p class="lastTextOption">JEANS BY STYLE</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="#">700 Series </a>
-                                                                        </li>
-                                                                        <li><a href="#">500 Series</a>
-                                                                        </li>
-                                                                        <li><a href="#">300 Shaping Series</a>
-                                                                        </li>
-                                                                        <li><a href="#">800 Curvy Series</a>
-                                                                        </li>
-                                                                        <li><a href="#">400 Relaxed Series</a>
-                                                                        </li>
-                                                                    </ul>
-
-
-
-
-                                                            <ul class="hidden-xs">
-                                                                <li class="titleLastLevel">
-                                                                    <p class="lastTextOption">THE SKINNY SHOP</p>
-                                                                    <ul class="lastLevel">
-
-
-                                                                        <li><a href="#">Modern Styles For Guys</a>
-                                                                        </li>
-
-
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                            
-
-
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-
-
-
-                                                        <div class="col-xs-12 col-sm-12 col-md-3">
-                                                            <ul>
-                                                                <li class="titleLastLevel">
-                                                                    <p class="lastTextOption">COLLECTIONS</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="">Levis Commuter</li>
-     <li><a href="#">See More Colletions</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-
-
-
-                                                        </div>
-
-
-                                                    </div>
-
-
-
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </li>
-
-
-
-
-
-                                <li class="option">
-                                    <p class="firstTextOption"> <a href="#">WOMEN</a> </p>
-                                    <div class="contMenu">
-                                        <ul class="parentMenu">
-                                            <li class="optionKit">
-                                                <div class="childOptionsMenu">
-                                                    <div class="row">
-                                                        <div class="col-xs-12 col-sm-12 col-md-3">
-                                                            <ul>
-                                                                <li>
-                                                                    <p class="lastTextOption">WHAT´S NEW</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="#">505™C</a>
-                                                                        </li>
-                                                                        <li><a href="#">New Arrivals</a>
-                                                                        </li>
-                                                                        <li><a href="#">Levi's® x The Zoe Report</a>
-                                                                        </li>
-                                                                        <li><a href="#">Sherpa</a>
-                                                                        </li>
-                                                                        <li><a href="#">Online Only</a>
-                                                                        </li>
-                                                                        <li><a href="#">501® Stretch Denim</a>
-                                                                        </li>
-                                                                        <li><a href="#">Fall Must Haves</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="col-xs-12 col-sm-12 col-md-3">
-                                                            <ul>
-                                                                <li>
-                                                                    <p class="lastTextOption">CATEGORIES</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="#">Jeans <span class="new-menu-item">new</span></a>
-                                                                        </li>
-                                                                        <li><a href="#">Shorts & Capris</a>
-                                                                        </li>
-                                                                        <li><a href="#">Shirts & Tops</a>
-                                                                        </li>
-                                                                        <li><a href="#">Jean Jackets & Truckers</a>
-                                                                        </li>
-                                                                        <li><a href="#">Jackets & Vests</a>
-                                                                        </li>
-                                                                        <li><a href="#">Dresses & Skirts</a>
-                                                                        </li>
-                                                                        <li><a href="#">T-shirts & Graphics</a>
-                                                                        </li>
-                                                                        <li><a href="#">Belts</a>
-                                                                        </li>
                                                                         <li><a href="#">Shop All</a>
                                                                         </li>
                                                                     </ul>
                                                                 </li>
                                                             </ul>
+
                                                         </div>
-                                                        <div class="col-xs-12 col-sm-12 col-md-3">
-                                                            <ul>
-                                                                <li>
-                                                                    <p class="lastTextOption">JEANS BY FIT</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="#">Skinny </a>
-                                                                        </li>
-                                                                        <li><a href="#">Super Skinny</a>
-                                                                        </li>
-                                                                        <li><a href="#">Boyfriend</a>
-                                                                        </li>
-                                                                        <li><a href="#">Straight</a>
-                                                                        </li>
-                                                                        <li><a href="#">Bootcut</a>
-                                                                        </li>
-                                                                        <li><a href="#">Slim</a>
-                                                                        </li>
-                                                                        <li><a href="#">Flare</a>
-                                                                        </li>
-                                                                        <li><a href="#">Overalls</a>
-                                                                        </li>
-                                                                        <li><a href="#">Shop All</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="col-xs-12 col-sm-12 col-md-3">
-                                                            <ul>
-                                                                <li>
-                                                                    <p class="lastTextOption">COLLECTIONS</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="#">Levi's® Made & Crafted™</a>
-                                                                        </li>
-                                                                        <li><a href="#">Levi's® NFL Collection</a>
-                                                                        </li>
-                                                                        <li><a href="#">Levi's® MLB Collection</a>
-                                                                        </li>
-                                                                        <li><a href="#">Levi's® Commuter™</a>
-                                                                        </li>
-                                                                        <li><a href="#">See More Collections</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row">
-                                                        <div class="col-xs-12 col-sm-12 col-md-3 hidden-xs">
-                                                            <ul>
-                                                                <li>
-                                                                    <p class="lastTextOption">Jeans by Rise</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="#">High</a>
-                                                                        </li>
-                                                                        <li><a href="#">Mid</a>
-                                                                        </li>
-                                                                        <li><a href="#">Low</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="col-xs-12 col-sm-12 col-md-3 hidden-xs">
-                                                            <ul>
-                                                                <li>
-                                                                    <p class="lastTextOption">Jeans by Style</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="#">700 Series </a>
-                                                                        </li>
-                                                                        <li><a href="#">500 Series</a>
-                                                                        </li>
-                                                                        <li><a href="#">300 Shaping Series</a>
-                                                                        </li>
-                                                                        <li><a href="#">800 Curvy Series</a>
-                                                                        </li>
-                                                                        <li><a href="#">400 Relaxed Series</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li class="option">
-                                    <p class="firstTextOption"> <a href="#">KIDS</a> </p>
-                                    <div class="contMenu">
-                                        <ul class="parentMenu">
-                                            <li class="optionKit">
-                                                <div class="childOptionsMenu">
-                                                    <div class="row">
                                                         <div class="col-xs-12 col-sm-12 col-md-3">
                                                             <ul>
                                                                 <li class="titleLastLevel">
-                                                                    <p class="lastTextOption"> Baby </p>
+                                                                    <p class="lastTextOption">FEATURES</p>
                                                                     <ul class="lastLevel">
-                                                                        <li><a href="#">Boys</a>
+                                                                        <li><a href="#">$25 Steals </a>
                                                                         </li>
-                                                                        <li><a href="#">Girls</a>
+                                                                        <li><a href="#">New Arrivals<span class="new-menu-item">new</span></a>
                                                                         </li>
-                                                                        <li><a href="#">See All</a>
+                                                                        <li><a href="#">Holiday Party<span class="new-menu-item">new</span></a>
+                                                                        </li>
+                                                                        <li><a href="#">Wrapped In Red</a>
+                                                                        </li>
+                                                                        <li><a href="#">EFM x Dockers®</a>
+                                                                        </li>
+                                                                        <li><a href="#">Casual Travel</a>
+                                                                        </li>
+                                                                        <li><a href="#">Dress Travel</a>
                                                                         </li>
                                                                     </ul>
+
                                                                 </li>
                                                             </ul>
                                                         </div>
+
+
+
                                                         <div class="col-xs-12 col-sm-12 col-md-3">
                                                             <ul>
-                                                                <li>
-                                                                    <p class="lastTextOption">Toddler</p>
+                                                                <li class="titleLastLevel">
+                                                                    <p class="lastTextOption">THE SHOPS</p>
                                                                     <ul class="lastLevel">
-                                                                        <li><a href="#">Boys</a>
-                                                                        </li>
-                                                                        <li><a href="#">Girls</a>
-                                                                        </li>
-                                                                        <li><a href="#">Outerwear</a>
-                                                                        </li>
-                                                                        <li><a href="#">See All</a>
-                                                                        </li>
+                                                                        <li><a href="">Dockers® Alpha Khaki</li>
+                                                                        <li><a href="#">Shirt Shop</a></li>
+                                                                        <li><a href="#">Slim Shop</a></li>
+                                                                        <li><a href="#">The No Wrinkle Zone</a></li>
+                                                                        <li><a href="#">Signature Khaki with Stretch</a></li>
+                                                                        <li><a href="#">Corduroy</a></li>
                                                                     </ul>
                                                                 </li>
                                                             </ul>
+
+
+
                                                         </div>
-                                                        <div class="col-xs-12 col-sm-12 col-md-3">
-                                                            <ul>
-                                                                <li>
-                                                                    <p class="lastTextOption">BOYS (8-20)</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="#">Jeans & Pants</a>
-                                                                        </li>
-                                                                        <li><a href="#">Shorts</a>
-                                                                        </li>
-                                                                        <li><a href="#">Graphic Tees & Shirts</a>
-                                                                        </li>
-                                                                        <li><a href="#">Outerwear</a>
-                                                                        </li>
-                                                                        <li><a href="#">Accessories</a>
-                                                                        </li>
-                                                                        <li><a href="#">See All</a>
-                                                                        </li>
-                                                                        <li><a href="#">Fall Must Haves</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="col-xs-12 col-sm-12 col-md-3">
-                                                            <ul>
-                                                                <li>
-                                                                    <p class="lastTextOption">Girls (7-16)</p>
-                                                                    <ul class="lastLevel">
-                                                                        <li><a href="#">Jeans & Leggings</a>
-                                                                        </li>
-                                                                        <li><a href="#">Tops & Outerwear</a>
-                                                                        </li>
-                                                                        <li><a href="#">Shorts & Skirts</a>
-                                                                        </li>
-                                                                        <li><a href="#">Accessories</a>
-                                                                        </li>
-                                                                        <li><a href="#">See All</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
+
+
                                                     </div>
+
+
+
                                                 </div>
                                             </li>
                                         </ul>
                                     </div>
                                 </li>
+
+
+
+
+
                                 <li class="option">
-                                    <p class="firstTextOption"> <a href="#">STORIES</a> </p>
-                                    <div class="contMenu MiniWidth1">
-                                        <ul class="parentMenu">
-                                            <li class="optionKit">
-                                                <div class="childOptionsMenu">
-                                                    <div class="row">
-                                                        <div class="col-xs-12">
-                                                            <ul>
-                                                                <li><a href="#/">Tailor Shop</a>
-                                                                </li>
-                                                                <li><a href="./videos.php">Skateboarding</a>
-                                                                </li>
-                                                                <li><a href="#/">Club América</a>
-                                                                </li>
-                                                                <li><a href="#/">511™ Slim y 711 Skinny</a>
-                                                                </li>
-                                                                <li><a href="#/">505™ C</a>
-                                                                </li>
-                                                                <li><a href="#/">Documental 501</a>
-                                                                </li>
-                                                                <li><a href="#/">Pride</a>
-                                                                </li>
-                                                                <li><a href="#/">#LADIESINLEVIS</a>
-                                                                </li>
-                                                                <li><a href="#/">80 años de Lady Levi's</a>
-                                                                </li>
-                                                                <li><a href="#/">COLECCIÓN Line 8</a>
-                                                                </li>
-                                                                <li><a href="#/">COMMUTER</a>
-                                                                </li>
-                                                                <li><a href="#/">501® CT</a>
-                                                                </li>
-                                                                <li><a href="#/">Levi's® Underwear</a>
-                                                                </li>
-                                                                <li><a href="#/">MADE OF PROGRESS </a>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li class="option">
-                                    <p class="firstTextOption"> <a href="#" style=" color: #d05252;">SALE</a> </p>
+                                    <p class="firstTextOption"> <a href="#">SIGNATURE KHAKI</a> </p>
                                     <div class="contMenu MiniWidth">
                                         <ul class="parentMenu">
                                             <li class="optionKit">
@@ -592,13 +239,11 @@
                                                         <div class="col-xs-12 col-sm-12 col-md-6">
                                                             <ul>
                                                                 <li>
-                                                                    <p class="lastTextOption">SHOP MEN</p>
+                                                                    <p class="lastTextOption">PANTS BY COLLECTION</p>
                                                                     <ul class="lastLevel">
-                                                                        <li><a href="#">Apparel</a>
+                                                                        <li><a href="#">Signature Khaki with Stretch</a>
                                                                         </li>
-                                                                        <li><a href="#">Shoes</a>
-                                                                        </li>
-                                                                        <li><a href="#">Accesories</a>
+                                                                        <li><a href="#">Signature Iron-Free</a>
                                                                         </li>
                                                                     </ul>
                                                                 </li>
@@ -608,56 +253,211 @@
 
                                                             <ul>
                                                                 <li>
-                                                                    <p class="lastTextOption">SHOP WOMEN</p>
+                                                                    <p class="lastTextOption">PANTS BY FIT</p>
                                                                     <ul class="lastLevel">
-                                                                        <li><a href="#">Jeans & Pants</a>
+                                                                        <li><a href="#">Slim Tapered</a>
                                                                         </li>
-                                                                        <li><a href="#">Apparel</a>
+                                                                        <li><a href="#">Slim Fit</a>
                                                                         </li>
-                                                                        <li><a href="#">Shoes</a>
+                                                                        <li><a href="#">Straight Fit</a>
                                                                         </li>
-                                                                        <li><a href="#">Accesories</a>
+                                                                        <li><a href="#">Athletic Tapered</a>
+                                                                        </li>
+                                                                        <li><a href="#">Clasic Fit</a>
+                                                                        </li>
+                                                                        <li><a href="#">Relaxed Fit</a>
                                                                         </li>
                                                                     </ul>
                                                                 </li>
                                                             </ul>
 
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="option">
+                                    <p class="firstTextOption"> <a href="#">PREMIUM</a> </p>
+                                    <div class="contMenu MiniWidth1">
+                                        <ul class="parentMenu">
+                                            <li class="optionKit">
+                                                <div class="childOptionsMenu">
+                                                    <div class="row">
+                                                        <div class="col-xs-12">
+
+                                                            <ul>
+                                                                <p class="lastTextOption">CATEGORIES</p>
+                                                                <li><a href="#/">Pants</a>
+                                                                </li>
+                                                                <li><a href="./videos.php">Shirts</a>
+                                                                </li>
+                                                                <li><a href="#/">Polos & Tees</a>
+                                                                </li>
+                                                                <li><a href="#/">Sweaters & Sweatshirts</a>
+                                                                </li>
+                                                                <li><a href="#/">Jackets & Blazers</a>
+                                                                </li>
+                                                                <li><a href="#/">Accesories</a>
+                                                                </li>
+                                                                <li><a href="#/">Shoes</a>
+                                                                </li>
+                                                                <li><a href="#/">Shop All</a>
+                                                                </li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="option">
+                                    <p class="firstTextOption"> <a href="#">BIG & TALL</a> </p>
+                                    <div class="contMenu MiniWidth1">
+                                        <ul class="parentMenu">
+                                            <li class="optionKit">
+                                                <div class="childOptionsMenu">
+                                                    <div class="row">
+                                                        <div class="col-xs-12">
+                                                            <ul>
+                                                                <p class="lastTextOption">CATEGORIES</p>
+                                                                <li><a href="#/">Pants</a>
+                                                                </li>
+                                                                <li><a href="./videos.php">Shirts</a>
+                                                                </li>
+                                                                <li><a href="#/">Polos & Tees</a>
+                                                                </li>
+                                                                <li><a href="#/">Accesories</a>
+                                                                </li>
+                                                                <li><a href="#/">Shop All</a>
+                                                                </li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="option">
+                                    <p class="firstTextOption"> <a href="#">WOMEN</a> </p>
+                                    <div class="contMenu MiniWidth1">
+                                        <ul class="parentMenu">
+                                            <li class="optionKit">
+                                                <div class="childOptionsMenu">
+                                                    <div class="row">
+                                                        <div class="col-xs-12">
+                                                            <ul>
+                                                                <li>
+                                                                    <p class="lastTextOption">SHOP BY CATEGORY</p>
+                                                                    <ul class="lastLevel">
+                                                                        <li><a href="#">Pants</a>
+                                                                        </li>
+                                                                        <li><a href="#">Tops</a>
+                                                                        </li>
+                                                                        <li><a href="#">Shop All</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+
+
+                                <li class="option">
+                                    <p class="firstTextOption"> <a href="#">SALE</a> </p>
+                                    <div class="contMenu MiniWidth">
+                                        <ul class="parentMenu">
+                                            <li class="optionKit">
+                                                <div class="childOptionsMenu">
+                                                    <div class="row">
+                                                        <div class="col-xs-12 col-sm-12 col-md-6">
+                                                            <ul>
+                                                                <li>
+                                                                    <p class="lastTextOption">MEN'S SALE</p>
+                                                                    <ul class="lastLevel">
+                                                                        <li><a href="#">Pants</a>
+                                                                        </li>
+                                                                        <li><a href="#">Shorts</a>
+                                                                        </li>
+                                                                        <li><a href="#">Swim</a>
+                                                                        </li>
+                                                                        <li><a href="#">Shirts & Tees</a>
+                                                                        </li>
+                                                                        <li><a href="#">Sweaters & Jackets</a>
+                                                                        </li>
+                                                                        <li><a href="#">Underwear</a>
+                                                                        </li>
+                                                                        <li><a href="#">Accesories</a>
+                                                                        </li>
+                                                                        <li><a href="#">Shoes</a>
+                                                                        </li>
+                                                                        <li><a href="#">Shop All</a>
+                                                                        </li>
+                                                                        <li><a href="#">Big & Tall</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </li>
+                                                            </ul>
                                                         </div>
                                                         <div class="col-xs-12 col-sm-12 col-md-6">
 
                                                             <ul>
                                                                 <li>
-                                                                    <p class="lastTextOption">SHOP KIDS</p>
+                                                                    <p class="lastTextOption">WOMEN'S SALE</p>
                                                                     <ul class="lastLevel">
-                                                                        <li><a href="#">Apparel</a>
+                                                                        <li><a href="#">Pants</a>
                                                                         </li>
-                                                                        <li><a href="#">Shoes</a>
+                                                                        <li><a href="#">Tops</a>
                                                                         </li>
-                                                                        <li><a href="#">Accesories</a>
+                                                                        <li><a href="#">Shop All</a>
                                                                         </li>
                                                                     </ul>
                                                                 </li>
                                                             </ul>
 
                                                         </div>
-                                                        <div class="col-xs-12 col-sm-12 col-md-3">
 
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
 
+                                <li class="option">
+                                    <p class="firstTextOption"><a href="#" style=" color: DarkOrange;"> GIFT GUIDE</a> </p>
+                                    <div class="contMenu MiniWidth1">
+                                        <ul class="parentMenu">
+                                            <li class="optionKit">
+                                                <div class="childOptionsMenu">
+                                                    <div class="row">
+                                                        <div class="col-xs-12">
                                                             <ul>
-                                                                <li class="titleLastLevel">
-                                                                    <p class="lastTextOption" style="color: #d22d2d;"> CLEARANCE </p>
+                                                                <li>
                                                                     <ul class="lastLevel">
-                                                                        <li><a href="#">Shop Men</a>
+                                                                        <li><a href="#">Top 50 Gifts for Guys</a>
                                                                         </li>
-                                                                        <li><a href="#">Shop Women</a>
+                                                                        <li><a href="#">Gifts Under $30</a>
                                                                         </li>
-                                                                        <li><a href="#">Shop Kids</a>
+                                                                        <li><a href="#">Premium Presents</a>
+                                                                        </li>
+                                                                        <li><a href="#">Gift Cards</a>
                                                                         </li>
                                                                     </ul>
                                                                 </li>
+
                                                             </ul>
-
-
                                                         </div>
                                                     </div>
                                                 </div>
@@ -677,7 +477,7 @@
 
 
 
-                    <div class="col-xs-12 col-sm-12 col-md-6">
+                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
                         <ul class="topMoreInfo">
                             <li class="searchBox hidden-xs">
                                 <form action="./oneResult.php">

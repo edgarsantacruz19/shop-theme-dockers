@@ -4,7 +4,8 @@
 
     ul.menuLvs li.option:hover > .contMenu {
         width: 810px;
-        height: 500px;
+        //height: 500px;
+        height: 300px;
         display: block;
         border: .5px solid black;
         box-shadow: 0 0 5px #c0bfc5;
@@ -40,7 +41,7 @@ ul.menuLvs li.option:hover > .firstTextOption {
         width: 310px;
         display: none;
         border: .5px solid black;
-        border-top: 4px solid #b74b4b;
+        border-top: 4px solid #e86d1e;
         box-shadow: 0 0 5px #c0bfc5;
         background-color: white;
         margin-top: 0px;

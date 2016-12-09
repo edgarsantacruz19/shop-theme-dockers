@@ -4701,7 +4701,7 @@ ul {
   padding-right: 0px; }
 
 ::selection {
-  background: #c30d2d;
+  background: #f47321;
   color: #fff;
   text-shadow: none; }
 
@@ -4804,8 +4804,7 @@ nav.topNavigation {
   float: left; }
 
 ul.topMoreInfo li {
-  display: inline-block;
-  padding-left: 30px; }
+  display: inline-block; }
 
 ul.topMoreInfo {
   text-align: right;
@@ -4880,12 +4879,15 @@ p.lastTextOption {
   padding: 10px;
   margin-bottom: 10px;
   border: none;
-  background: #b13333;
+  background: #e86d1e;
   color: white;
   font-family: 'levisLight', 'Arial';
   font-weight: bold;
   letter-spacing: 3px;
   font-size: 1.3em; }
+
+.btnFastCart:hover {
+  background: #c64d00; }
 
 .nOfItems {
   text-align: center;
@@ -4937,7 +4939,7 @@ li.option a {
   color: black; }
 
 li.option:hover a {
-  color: #c51230;
+  color: #e86d1e;
   text-decoration: none; }
 
 ul.parentMenu li.optionKit {
@@ -4967,7 +4969,7 @@ li.option:hover {
   display: inline-block;
   vertical-align: middle;
   zoom: 1;
-  background: #c51230;
+  background: #e86d1e;
   color: white;
   font-family: 'Helvetica';
   font-size: .65em;
@@ -5004,7 +5006,7 @@ ul.lastLevel li {
   text-transform: uppercase;
   color: #666;
   font-family: 'levisLight', 'Arial';
-  font-size: 1.45em;
+  font-size: 18px;
   margin-bottom: 4px; }
 
 .childOptionsMenu ul li {
@@ -5012,7 +5014,7 @@ ul.lastLevel li {
 
 p.firstTextOption {
   margin: 0px;
-  font-size: 18px;
+  font-size: 13px;
   padding: 5px 10px;
   position: relative;
   z-index: 1;
@@ -5929,7 +5931,6 @@ h3.carTitleBag {
   margin-top: 5px; }
 
 h3.carTitleBag a, :hover {
-  color: #000;
   text-decoration: none; }
 
 h3.carTitleBag img {
@@ -6866,7 +6867,7 @@ h4.tlContacto {
 @media (min-width: 991px) {
   ul.menuLvs li.option:hover > .contMenu {
     width: 810px;
-    height: 500px;
+    height: 300px;
     display: block;
     border: .5px solid black;
     box-shadow: 0 0 5px #c0bfc5;
@@ -6897,7 +6898,7 @@ h4.tlContacto {
     width: 310px;
     display: none;
     border: .5px solid black;
-    border-top: 4px solid #b74b4b;
+    border-top: 4px solid #e86d1e;
     box-shadow: 0 0 5px #c0bfc5;
     background-color: white;
     margin-top: 0px;

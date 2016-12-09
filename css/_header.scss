@@ -60,7 +60,7 @@ nav.topNavigation {
 }
 ul.topMoreInfo li {
     display: inline-block;
-    padding-left: 30px;
+   //padding-left: 30px;
 }
 ul.topMoreInfo {
     text-align: right;
@@ -138,12 +138,16 @@ p.lastTextOption {
     padding: 10px;
     margin-bottom: 10px;
     border: none;
-    background: #b13333;
+    background: #e86d1e;
     color: white;
     font-family: 'levisLight', 'Arial';
     font-weight: bold;
     letter-spacing: 3px;
     font-size: 1.3em;
+}
+
+.btnFastCart:hover{
+    background: #c64d00;
 }
 // Fast Cart
 .nOfItems {
