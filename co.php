@@ -20,7 +20,7 @@
       <![endif]-->  
    </head>
 
-   <body>
+   <body id="iPhone6Paaapu">
 
       <header>
          <div class="container shopFinal">
