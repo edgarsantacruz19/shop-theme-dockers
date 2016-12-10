@@ -20,7 +20,7 @@
       <![endif]-->  
    </head>
 
-   <body>
+   <body id="toTop">
 
       <header>
          <div class="container shopFinal">
